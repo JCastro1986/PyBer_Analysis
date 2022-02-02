@@ -14,7 +14,7 @@ The main goal of this project is:
 - 
 ## Results
 
-* PyBer_fare_summary.png
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/95668609/152228192-6918193b-028b-419e-b855-65d624821d3d.png)
 
 
@@ -22,7 +22,7 @@ The main goal of this project is:
 - The second-best performance rates are the Subrural cities.
 - The Best performance rates are the Urban cities.
 
-* PyBer_fare_summary(1).png
+
 ![PyBer_fare_summary(1)](https://user-images.githubusercontent.com/95668609/152228212-418a5886-a68a-4657-b10d-94bd9b6350e1.png)
 
 
@@ -31,7 +31,7 @@ The main goal of this project is:
 - The total number of rides in Suburban trips are 625 or 26.3% 
 - The total number of rides in Urban trips is 1,625 or 68.4% 
 
-* % of Total Rides by City Type.png*
+
 ![% of Total Rides by City Type](https://user-images.githubusercontent.com/95668609/152228230-801733a8-bff1-46b1-828e-1ac8390c66ea.png)
 
 
@@ -40,7 +40,7 @@ The main goal of this project is:
 - There are 490 drivers in Suburban cities this represents 16.5% of total drivers.
 - There are 2,405 drivers in Urban cities this represents 80.9% of total drivers.
 
-* % of Total Drivers by City Type.png
+
 ![% of Total Drivers by City Type](https://user-images.githubusercontent.com/95668609/152228259-79b040d0-3e53-4a74-babe-cd6bdac14c4f.png)
 
 
@@ -49,7 +49,7 @@ The main goal of this project is:
 - The sum of all rates for the Suburban cities is $19,356.33 or 30.5%
 - The sum of all rates for the Urban cities is $39,854.38 or 62.7%
 
-* % of Total Fares by City Type.png
+
 ![% of Total Fares by City Type](https://user-images.githubusercontent.com/95668609/152228286-16385b2d-235a-44c5-83aa-0634533aeff8.png)
 
 
@@ -58,7 +58,7 @@ The main goal of this project is:
 - The Average Fare per Ride in Suburban cities is $30.97
 - The Average Fare per Ride in Urban cities is $24.53
 
-* PyBer Ride-Sharing Data (2019).png
+
 ![PyBer Ride-Sharing Data (2019)](https://user-images.githubusercontent.com/95668609/152228298-f3c14ce8-2c40-4320-ac5b-49e187164fa9.png)
 
 
