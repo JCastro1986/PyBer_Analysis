@@ -11,7 +11,7 @@ The main goal of this project is:
 1. Create a summary DataFrame of the ride-sharing data by city type.
 2. Create a multiple-line graph that shows the total weekly fares for each city type.
 3. Submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
-- 
+
 ## Results
 
 
